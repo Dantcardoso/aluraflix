@@ -7,7 +7,7 @@
 </head>
 <body>
     <!-- Título com o nome -->
-    <h1>João Silva</h1>
+    <h1>Daniel cardoso</h1>
 
     <!-- Parágrafo com uma breve apresentação pessoal -->
     <p>Olá, meu nome é João Silva! Sou um apaixonado por tecnologia, programação e viagens. Estou sempre em busca de aprender coisas novas e compartilhar conhecimento com os outros.</p>
